@@ -1,0 +1,178 @@
+/*
+Joshua Ceres
+DWS2 Week 1
+February 2015
+*/
+/*-----------------------------------------Body/Wrapper-------------------------------------------------------*/
+body{
+    width: 100%; /* 1397px */
+    background: #E74C3C;
+    font-size: .85em;
+    font-family: helvetica, arial, sans-serif;
+    margin-top: 0;
+}
+
+#wrapper{
+    width: 68.7186%; /* 960px / 1397px */
+    margin: 0 auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    overflow: hidden;
+    box-shadow: 0 0 .5em #8A2D24;
+    background: #ECF0F1;
+}
+section{
+    float: left;
+    width: 44.875%; /* 450px / 960px */
+    margin-left: 3.3333%; /* 15px / 450px */
+}
+aside{
+    float: right;
+    width: 44.875%; /* 450px / 960px */
+    padding-left: 3.3333%; /* 15px / 450px */
+
+}
+
+/*-------------------------------------------  header -------------------------------------------------------*/
+
+header{
+    border-bottom: .1em solid #2C3E50; /*changes color of border under project name*/
+}
+
+h2,h3 {
+    text-align: center;
+    margin-top: 3.3333%; /* 15px / 450px */
+}
+h1{
+    width: 100%;
+    margin-top: 0;
+    padding: 1% 0 1% 0;
+    color: #ECF0F1;
+    background: #2C3E50;
+}
+h2{
+    width: 100%;
+    color: #ECF0F1;
+    background: #2C3E50;
+}
+
+h3{
+    width: 100%;
+    color: #ECF0F1;
+    background: #2C3E50;
+}
+
+
+/*-------------------------------------------  Main and Gallery Floated----------------------------------------*/
+
+.main{
+    width: 100%;
+    margin-left: 20px;
+    overflow: hidden;
+}
+
+.main p{
+    width: 100%;
+    padding: 1%;
+    margin-right: 15px;
+    background-color: #3498DB;
+    font-size: 1em;
+}
+
+#gallery{
+    width: 100%;
+    padding: 10px;
+}
+
+figure{
+    float: left;
+    clear: left;
+}
+
+figcaption{
+    padding: 1%;
+    color: #ECF0F1;
+    background: #2C3E50;
+}
+/*
+.thumbnail{
+    float: left;
+    clear: left;
+}
+#images{
+    text-align: center;
+    margin: 50px auto;
+}
+
+#images a{
+    margin: 0 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #ECF0F1;
+}
+/*
+img{
+    padding: 1.5em;
+    border: .1em solid black;
+    text-wrap: normal;
+}
+img{
+
+}
+*/
+
+
+/*-------------------------------------------  footer-------------------------------------------------------*/
+/*
+footer{
+    width: 100%;
+    margin-top: 2.0833%; /* -- 20px / 960 px --
+    margin-left: 2.0833%; /* -- 20px / 960 px --
+    color: #ECF0F1;
+    background: #2C3E50;
+    text-align: center;
+    border-top: .1em solid #2C3E50;
+}
+*/
+
+/*-------------------------------------------  @ media query's ------------------------------------------------*/
+
+@media only screen and (max-width: 959px) {
+    #wrapper{
+        width:98%;
+    }
+}
+
+/* All Mobile Sizes */
+@media only screen and (max-width: 767px) {
+    #wrapper{
+        width: 95%;
+
+    }
+    .section, header, h2{
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+    .main {
+        width: 100%;
+        float: left;
+    }
+    .main p{
+        width: 98%;
+    }
+    aside{
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+
+    #gallery {
+        width: 100%;
+        float: right;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    body{
+        background-color: #2980B9;
+    }
+}
