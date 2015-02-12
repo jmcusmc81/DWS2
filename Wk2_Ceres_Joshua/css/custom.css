@@ -36,14 +36,17 @@ body {
 }
 
 h2{
-    border-bottom: solid;
+    color: #EEEFF7;
+    background-color: #445878;
+    border: .1em solid #31353D;
+   /* border-bottom: .5em solid #31353D; */
    /* background-color: #EEEFF7; */
 }
 
 #row-1, #row-2, #row-3{
 
     padding-right: 1%;
-    padding-bottom: 1%;
     padding-left: 1%;
     background-color: #EEEFF7;
+    border: .25em solid #31353D;
 }
