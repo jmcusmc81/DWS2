@@ -1,5 +1,12 @@
 /* This is a custom CSS stylesheet */
 
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #1C1D21;
+}
+
 .jumbotron{
-    background-image: url(../img/Walking%20Dead%20Banner-1.jpg);
+    /* background-image: url(../img/Walking%20Dead%20Banner-1.jpg);
+    color: white; */
 }
