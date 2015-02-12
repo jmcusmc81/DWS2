@@ -1,1 +1,5 @@
 /* This is a custom CSS stylesheet */
+
+.jumbotron{
+    background-image: url(../img/Walking%20Dead%20Banner-1.jpg);
+}

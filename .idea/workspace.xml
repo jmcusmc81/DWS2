@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ed0cea-75d7-4632-8b45-c8476f4ab4ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" afterPath="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" afterPath="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" />
     </list>
     <ignored path="DWS2.iws" />
@@ -25,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64375" vertical-offset="55" max-vertical-offset="1530">
-              <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+            <state vertical-scroll-proportion="-39.375" vertical-offset="0" max-vertical-offset="1530">
+              <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07281554" vertical-offset="0" max-vertical-offset="824">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -84,6 +95,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" />
+        <option value="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" />
       </list>
     </option>
   </component>
@@ -367,8 +379,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64375" vertical-offset="55" max-vertical-offset="1530">
-          <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+        <state vertical-scroll-proportion="-39.375" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07281554" vertical-offset="0" max-vertical-offset="824">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
