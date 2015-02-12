@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ed0cea-75d7-4632-8b45-c8476f4ab4ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" afterPath="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" afterPath="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" />
     </list>
     <ignored path="DWS2.iws" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71875" vertical-offset="400" max-vertical-offset="1665">
-              <caret line="65" column="98" selection-start-line="65" selection-start-column="98" selection-end-line="65" selection-end-column="98" />
+            <state vertical-scroll-proportion="0.49375" vertical-offset="415" max-vertical-offset="1665">
+              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -387,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71875" vertical-offset="400" max-vertical-offset="1665">
-          <caret line="65" column="98" selection-start-line="65" selection-start-column="98" selection-end-line="65" selection-end-column="98" />
+        <state vertical-scroll-proportion="0.49375" vertical-offset="415" max-vertical-offset="1665">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
           <folding />
         </state>
       </provider>
