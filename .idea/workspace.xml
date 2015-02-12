@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ed0cea-75d7-4632-8b45-c8476f4ab4ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" afterPath="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" afterPath="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" />
     </list>
     <ignored path="DWS2.iws" />
@@ -26,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.583333" vertical-offset="775" max-vertical-offset="1680">
-              <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.90625" vertical-offset="775" max-vertical-offset="1710">
+              <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8373786" vertical-offset="0" max-vertical-offset="855">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
               <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
               <folding />
             </state>
@@ -94,8 +93,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" />
         <option value="$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css" />
+        <option value="$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html" />
       </list>
     </option>
   </component>
@@ -377,18 +376,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
+    <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.583333" vertical-offset="775" max-vertical-offset="1680">
-          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/Wk2_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8373786" vertical-offset="0" max-vertical-offset="855">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.90625" vertical-offset="775" max-vertical-offset="1710">
+          <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
           <folding />
         </state>
       </provider>
