@@ -6,10 +6,28 @@ body {
     background-color: #1C1D21;
 }
 
+#container{
+    background-color: #92CDCF;
+}
+
 .navbar{
     color: #92CDCF;
     background-color: #445878;
 }
+/*
+#navbar
+    color: #1EAEDB;
+}
+
+.navbar a{
+    color: #1EAEDB;
+
+}
+.navbar li a{
+    color: #1EAEDB;
+
+}
+*/
 
 .jumbotron{
     background-color: #EEEFF7;
@@ -22,7 +40,7 @@ h2{
    /* background-color: #EEEFF7; */
 }
 
-#row-1{
+#row-1, #row-2, #row-3{
 
     padding-right: 1%;
     padding-bottom: 1%;
