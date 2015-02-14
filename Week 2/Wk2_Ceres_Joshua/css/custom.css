@@ -1,0 +1,61 @@
+/* Joshua Ceres
+   Custom Styling sheet
+   DWS2 Week 2
+*/
+
+/*----------------------------Body and container------------------------------------*/
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #1C1D21;
+}
+
+#container{
+    background-color: #92CDCF; /* the container bg color would not work for some reason */
+}
+/*----------------------------Navbar------------------------------------*/
+.navbar{
+    color: #92CDCF;
+    background-color: #445878;
+}
+
+/* ------ I could not figure out how to change the color of the text in navbar so I left all the lines of code I tried. --------
+#navbar
+    color: #1EAEDB;
+}
+
+.navbar a{
+    color: #1EAEDB;
+
+}
+.navbar li a{
+    color: #1EAEDB;
+
+}
+*/
+
+/*----------------------------Jumbotron------------------------------------*/
+.jumbotron{
+    background-color: #EEEFF7;
+
+    /*--- I initially tried to a bg image that covered the entire Jumbotron but I didnt like it and left it out ----*/
+    /* background-image: url(../img/Walking%20Dead%20Banner-1.jpg);
+    color: white; */
+}
+/*----------------------------Heading and Rows------------------------------------*/
+/* added some styling to h2 for the seasons */
+h2{
+    color: #EEEFF7;
+    background-color: #445878;
+    border: .1em solid #31353D;
+   /* border-bottom: .5em solid #31353D; --- Removed bottom border since I added a border ----*/
+   /* background-color: #EEEFF7; */
+}
+/*--- added div id's to each row ----*/
+#row-1, #row-2, #row-3, #row-4{
+    padding-top: .9%;
+    padding-right: 1%;
+    padding-left: 1%;
+    background-color: #EEEFF7;
+    border: .25em solid #31353D;
+}
