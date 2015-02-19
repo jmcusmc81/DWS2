@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title>Form Style</title>
-    <style type="text/css">
+---------- HTML ---------------
+
+<style type="text/css">
         body {
             margin: 2em 5em;
             font-family:Georgia, "Times New Roman", Times, serif;
@@ -34,8 +31,11 @@
         .card-type input, .card-type label {
             display:inline-block;
         }
-    </style>
-    <style type="text/css" id="diigolet-chrome-css">body#dummybodyid .diigolet,body#dummybodyid .diigolet a,body#dummybodyid .diigolet em,body#dummybodyid .diigolet span,body#dummybodyid .diigolet div,body#dummybodyid .diigolet dl,body#dummybodyid .diigolet dt,body#dummybodyid .diigolet dd,body#dummybodyid .diigolet ul,body#dummybodyid .diigolet ol,body#dummybodyid .diigolet li,body#dummybodyid .diigolet h1,body#dummybodyid .diigolet h2,body#dummybodyid .diigolet h3,body#dummybodyid .diigolet h4,body#dummybodyid .diigolet h5,body#dummybodyid .diigolet h6,body#dummybodyid .diigolet pre,body#dummybodyid .diigolet form,body#dummybodyid .diigolet fieldset,body#dummybodyid .diigolet p,body#dummybodyid .diigolet blockquote,body#dummybodyid .diigolet th,body#dummybodyid .diigolet td,body#dummybodyid .diigolet input,body#dummybodyid .diigolet textarea,body#dummybodyid .diigolet select,body#dummybodyid .diigolet *{background:transparent none;padding:0;margin:0;border:#000 0 solid;text-align:left;text-decoration:none;text-transform:none;text-indent:0;line-height:normal;word-break:normal;word-wrap:normal;width:auto;height:auto;color:inherit;font:inherit;float:none;cursor:default;position:static;overflow:visible;max-width:none;box-shadow:none;opacity:1;border-radius:0;}
+
+</style>
+
+
+<style type="text/css" id="diigolet-chrome-css">body#dummybodyid .diigolet,body#dummybodyid .diigolet a,body#dummybodyid .diigolet em,body#dummybodyid .diigolet span,body#dummybodyid .diigolet div,body#dummybodyid .diigolet dl,body#dummybodyid .diigolet dt,body#dummybodyid .diigolet dd,body#dummybodyid .diigolet ul,body#dummybodyid .diigolet ol,body#dummybodyid .diigolet li,body#dummybodyid .diigolet h1,body#dummybodyid .diigolet h2,body#dummybodyid .diigolet h3,body#dummybodyid .diigolet h4,body#dummybodyid .diigolet h5,body#dummybodyid .diigolet h6,body#dummybodyid .diigolet pre,body#dummybodyid .diigolet form,body#dummybodyid .diigolet fieldset,body#dummybodyid .diigolet p,body#dummybodyid .diigolet blockquote,body#dummybodyid .diigolet th,body#dummybodyid .diigolet td,body#dummybodyid .diigolet input,body#dummybodyid .diigolet textarea,body#dummybodyid .diigolet select,body#dummybodyid .diigolet *{background:transparent none;padding:0;margin:0;border:#000 0 solid;text-align:left;text-decoration:none;text-transform:none;text-indent:0;line-height:normal;word-break:normal;word-wrap:normal;width:auto;height:auto;color:inherit;font:inherit;float:none;cursor:default;position:static;overflow:visible;max-width:none;box-shadow:none;opacity:1;border-radius:0;}
     body#dummybodyid .diigolet{color:#000;font:normal normal normal 13px arial,helvetica,clean,sans-serif;}
     body#dummybodyid .diigolet input[type=text],body#dummybodyid .diigolet textarea,body#dummybodyid .diigolet select,body#dummybodyid .diigolet fieldset{background-color:#FFF;border:1px #999 solid;padding:1px;font-size:12px;display:inline;border-radius:2px;-webkit-transition:border linear .2s,box-shadow linear .2s;}
     body#dummybodyid .diigolet select{padding:0;height:20px;}
@@ -820,129 +820,52 @@
     body#dummybodyid .diigolet .cItem span.extraDesc{float:none;font-weight:normal;color:#777;margin-left:10px;font-style:italic;}
     body#dummybodyid .diigolet .cItem span.extraDesc .keywordStrong{color:#000;font-style:italic;background-color:#fff;}
     body#dummybodyid .diigolet .cItem span.keywordStrong{float:none;font-weight:bold;}
-    </style>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/custom.css" rel="stylesheet">
-   <!-- <link href="css/navbar.css" rel="stylesheet"> -->
-    <script src="js/respond-min.js"></script>
-</head>
-<body>
-<!-- <div class="container"> <!-- Container Begins -->
-     <form id="register"> <!-- Form Begins -->
-         <h1>Register for Miss Bakers Space Cadets</h1>
-         <fieldset>
-             <legend>Personal details</legend>
-             <div>
-                 <label>First Name
-                     <input id="given-name" name="given-name" type="text" placeholder="First name only" required="" autofocus="">
-                 </label>
-             </div>
-             <div>
-                 <label>Last Name
-                     <input id="family-name" name="family-name" type="text" placeholder="Last name only" required="" autofocus="">
-                 </label>
-             </div>
-             <div>
-                 <label>Date of Birth
-                     <input id="dob" name="dob" type="date" required="">
-                 </label>
-             </div>
-             <div>
-                 <label>Email
-                     <input id="email" name="email" type="email" placeholder="example@domain.com" required="">
-                 </label>
-             </div>
-             <div>
-                 <label>URL
-                     <input id="url" name="url" type="url" placeholder="http://mysite.com">
-                 </label>
-             </div>
-             <div>
-                 <label>Telephone
-                     <input id="phone" name="phone" type="tel" placeholder="Eg. +447000 000000" required="">
-                 </label>
-             </div>
-             <div>
-                 <label>Shoesize
-                     <input id="shoes" name="shoes" type="number" min="5" max="18" step="0.5" value="9">
-                 </label>
-             </div>
-             <div>
-                 <label>Flying Skill level (1 low - 100 high)
-                     <input id="skill" name="skill" type="range" min="1" max="100" value="0">
-                     <output name="output" onforminput="value=a.value">0</output>
-                 </label>
-             </div>
-         </fieldset>
-         <fieldset>
-             <legend>Billing address</legend>
-             <div>
-                 <label>Address
-                     <textarea id="address" name="address" rows="5" required=""></textarea>
-                 </label>
-             </div>
-             <div>
-                 <label>Post code
-                     <input id="postCode" name="postCode" type="text" required="">
-                 </label>
-             </div>
-             <div>
-                 <label>Country
-                     <input id="country" name="country" list="country-names" type="text" required="">
-                     <datalist id="country-names">
-                         <option label="England" value="England"></option>
-                         <option label="Northern Ireland" value="Northern Ireland"></option>
-                         <option label="Ireland" value="Ireland"></option>
-                         <option label="Scotland" value="Scotland"></option>
-                         <option label="Wales" value="Wales"></option>
-                     </datalist>
-                 </label>
-             </div>
-         </fieldset>
-         <fieldset>
-             <legend>Card details</legend>
-             <fieldset>
-                 <legend>Card type</legend>
-                 <div class="card-type">
-                     <input id="visa" name="cardtype" type="radio">
-                     <label for="visa">VISA</label>
-                     <input id="mastercard" name="cardtype" type="radio">
-                     <label for="mastercard">Mastercard</label>
-                     <input id="amex" name="cardtype" type="radio">
-                     <label for="amex">AMEX</label>
-                 </div>
-             </fieldset>
-             <div>
-                 <label>Name
-                     <input id="cardName" name="cardName" type="text" placeholder="Name as it appears on your card" required="">
-                 </label>
-             </div>
-             <div>
-                 <label>Card number
-                     <input id="cardNo" name="cardNo" type="number" required="" title="The sixteen digit number across the middle of your card.">
-                 </label>
-             </div>
-             <div>
-                 <label>Security code
-                     <input id="security" name="security" type="number" required="" pattern="[0-9]{3}" title="The last three digits on the back of your card.">
-                 </label>
-             </div>
-             <div>
-                 <label>Expiry Date
-                     <input id="expiry" name="expiry" type="month">
-                 </label>
-             </div>
-         </fieldset>
-         <fieldset>
-             <div>
-                 <button type="submit">Place Order</button>
-             </div>
-         </fieldset>
-     </form> <!-- Form Ends -->
- <!-- </div>   <!-- Container Ends -->
 
-<!-- javascript -->
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-</body>
-</html>
+</style>
+-------------------------------------------\
+
+--------------------- CSS ------------------
+-----RANGE-----------
+input[type="range" i] {
+    -webkit-appearance: slider-horizontal;
+    padding: initial;
+    border: initial;
+    margin: 2px;
+    color: rgb(144, 144, 144);
+}
+-----DATES/TIME-----
+input[type="date" i], input[type="datetime-local" i], input[type="month" i], input[type="time" i], input[type="week" i] {
+    align-items: center;
+    display: -webkit-inline-flex;
+    font-family: monospace;
+    overflow: hidden;
+    padding: 0px;
+    -webkit-padding-start: 1px;
+}
+
+input, input[type="password" i], input[type="search" i] {
+    -webkit-appearance: textfield;
+    padding: 1px;
+    background-color: white;
+    border: 2px inset;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-repeat: initial;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+}
+
+--------LABEL-------------
+input, input[type="password" i], input[type="search" i] {
+    -webkit-appearance: textfield;
+    padding: 1px;
+    background-color: white;
+    border: 2px inset;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-repeat: initial;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+}

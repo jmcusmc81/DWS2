@@ -4,9 +4,6 @@
 */
 
 /*----------------------------HTML and Head------------------------------------*/
-html[Attributes Style] {
-    -webkit-locale: en-US;
-}
 
 html {
     display: block;
@@ -49,14 +46,7 @@ h1 {
 
 legend {
     display: block;
-    -webkit-padding-start: 2px;
-    -webkit-padding-end: 2px;
     border: none;
-    border-image-source: initial;
-    border-image-slice: initial;
-    border-image-width: initial;
-    border-image-outset: initial;
-    border-image-repeat: initial;
 }
 
 /*----------------------------Fieldset------------------------------------*/
@@ -67,17 +57,72 @@ fieldset {
 
 fieldset {
     display: block;
-    -webkit-margin-start: 2px;
-    -webkit-margin-end: 2px;
-    -webkit-padding-before: 0.35em;
-    -webkit-padding-start: 0.75em;
-    -webkit-padding-end: 0.75em;
-    -webkit-padding-after: 0.625em;
-    border: 2px groove threedface;
-    border-image-source: initial;
-    border-image-slice: initial;
-    border-image-width: initial;
-    border-image-outset: initial;
-    border-image-repeat: initial;
-    min-width: -webkit-min-content;
+    border: 2px solid;
+    overflow: hidden;
+}
+
+
+/*----------------------------Label------------------------------------*/
+label, input, select {
+    display: block;
+}
+
+label {
+    cursor: default;
+}
+
+/*----------------------------Label------------------------------------*/
+input, select {
+    margin-bottom: 1em;
+}
+
+label, input, select {
+    display: block;
+}
+
+/*----------------------------Input First Name------------------------------------*/
+input, textarea, keygen, select, button {
+    margin: 0em;
+    font: normal normal normal 11px/normal 'Lucida Grande';
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+
+input, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
+
+/*----------------------------Input Dates/Time------------------------------------*/
+
+
+
+input, textarea, keygen, select, button {
+    margin: 0em;
+    font: normal normal normal 11px/normal 'Lucida Grande';
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+
+/*----------------------------Range------------------------------------*/
+
+bdi, output {
+    unicode-bidi: -webkit-isolate;
+}
+
+output {
+    display: inline;
 }
