@@ -3,6 +3,18 @@
    DWS2 Week 3
 */
 
+/*----------------------------HTML and Head------------------------------------*/
+html[Attributes Style] {
+    -webkit-locale: en-US;
+}
+
+html {
+    display: block;
+}
+
+head {
+    display: none;
+}
 /*----------------------------Body and Form------------------------------------*/
 body {
     margin: 2em 5em;
@@ -33,6 +45,18 @@ h1 {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     font-weight: bold;
+}
+
+legend {
+    display: block;
+    -webkit-padding-start: 2px;
+    -webkit-padding-end: 2px;
+    border: none;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
 }
 
 /*----------------------------Fieldset------------------------------------*/
