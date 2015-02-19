@@ -1,0 +1,31 @@
+/* Joshua Ceres
+   Custom Styling sheet
+   DWS2 Week 3
+*/
+
+/*----------------------------Body and Form------------------------------------*/
+body {
+    margin: 2em 5em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+form {
+    display: block;
+    margin-top: 0;
+}
+
+
+/*----------------------------Headings and Legend------------------------------------*/
+h1, legend {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
