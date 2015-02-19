@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ed0cea-75d7-4632-8b45-c8476f4ab4ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/css/darkmatter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/css/darkmatter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/js/jquery-latest.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/_Copy/js/respond-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 2/Wk2_Ceres_Joshua/css/darkmatter.css" afterPath="$PROJECT_DIR$/Week 2/Wk2_Ceres_Joshua/css/darkmatter.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/index.html" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/_Copy/index.html" afterPath="$PROJECT_DIR$/Week 3/_Copy/index.html" />
     </list>
     <ignored path="DWS2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,8 +58,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/_Copy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43125" vertical-offset="0" max-vertical-offset="2640">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.9625" vertical-offset="1855" max-vertical-offset="2715">
+              <caret line="175" column="3" selection-start-line="175" selection-start-column="3" selection-end-line="175" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -515,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/_Copy/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43125" vertical-offset="0" max-vertical-offset="2640">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.9625" vertical-offset="1855" max-vertical-offset="2715">
+          <caret line="175" column="3" selection-start-line="175" selection-start-column="3" selection-end-line="175" selection-end-column="3" />
           <folding />
         </state>
       </provider>
