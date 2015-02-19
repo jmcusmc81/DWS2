@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Form Style</title>
+    <title>Form Style Copy</title>
     <link href="css/custom.css" rel="stylesheet">
-  <!--  <link href="css/darkmatter.css" rel="stylesheet"> -->
+    <link href="css/darkmatter.css" rel="stylesheet">
     <script src="js/respond-min.js"></script>
 
     <!-- Commented out Bootstrap CSS because it has Legend set at 100% -->
@@ -17,8 +17,11 @@
 <form action="" method="post" class="dark-matter"> <!-- Form Begins -->
 
          <h1>Register for Walking Dead Sweepstakes</h1>
-         <fieldset> <!-- 1st Field set -->
-             <legend>Personal details</legend>
+             <div>
+                 <a href="http://www.sanwebe.com/2013/10/css-html-form-styles">Dark Matter</a>
+             </div>
+       <!--  <fieldset> <!-- 1st Field set -->
+             <label>Personal details</label>
              <div>
                  <label>First Name</label>
                      <input id="given-name" name="given-name" type="text" placeholder="First name only" aria-required="true" autofocus="">
@@ -80,10 +83,10 @@
                  -->
 
              </div>
-         </fieldset> <!-- 1st Fieldset -->
+       <!--  </fieldset> <!-- 1st Fieldset END -->
 
-         <fieldset> <!-- 2nd Fieldset -->
-             <legend>Home Address</legend>
+       <!--  <fieldset> <!-- 2nd Fieldset -->
+             <label>Home Address</label>
              <div>
                  <label>Address</label>
                      <textarea id="address" name="address" rows="5" aria-required="true"></textarea>
@@ -106,19 +109,19 @@
                      </datalist>
 
              </div>
-         </fieldset> <!-- 2nd Fieldset -->
+     <!--    </fieldset> <!-- 2nd Fieldset END -->
         <h1>Walking Dead Merchandise</h1>
-         <fieldset>
-             <legend>Products</legend>
+      <!--   <fieldset> <!-- 3rd Fieldset -->
+             <label>Products</label>
              <div>
                  <label>Search our Inventory</label>
                  <input type=search>
                  <input type=submit value=Submit>
              </div>
-         </fieldset>
-         <fieldset> <!-- 3rd Fieldset -->
-             <legend>Card details</legend>
-                 <legend>Card type</legend>
+      <!--   </fieldset> <!-- 3rd Fieldset END -->
+    <!--     <fieldset> <!-- 4th Fieldset -->
+             <label>Card details</label>
+                 <label>Card type</label>
                  <div class="card-type">
                      <!-- Radio Buttons -->
                      <label for="visa">VISA</label>
@@ -129,8 +132,8 @@
                      <input id="amex" name="cardtype" type="radio">
 
                  </div>
-             </fieldset> <!-- 3rd Fieldset-->
-             <fieldset> <!-- 4th Fieldset -->
+        <!--     </fieldset> <!-- 4th Fieldset END -->
+        <!--     <fieldset> <!-- 5th Fieldset -->
              <div>
                  <label>Name</label> <!-- Name, Card Name -->
                      <input id="cardName" name="cardName" type="text" placeholder="Name as it appears on your card" required="">
@@ -151,13 +154,13 @@
                      <input id="expiry" name="expiry" type="month">
 
              </div>
-         </fieldset> <!-- 4th Fieldset -->
+      <!--   </fieldset> <!-- 5th Fieldset END -->
 
-         <fieldset> <!-- 5th Fieldset -->
+      <!--   <fieldset> <!-- 6th Fieldset -->
              <div>
                  <button type="submit">Place Order</button> <!-- Submit Button -->
              </div>
-         </fieldset> <!-- 5th Fieldset -->
+       <!--  </fieldset> <!-- 6th Fieldset END -->
      </form> <!-- Form Ends -->
  <!-- </div>   <!-- Container Ends -->
 

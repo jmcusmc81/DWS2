@@ -1,0 +1,132 @@
+/* Joshua Ceres
+   Custom Styling sheet
+   DWS2 Week 3
+*/
+
+/*----------------------------HTML and Head------------------------------------*/
+
+html {
+    display: block;
+}
+
+head {
+    display: none;
+}
+/*----------------------------Body and Form------------------------------------*/
+body {
+    margin: 2em 5em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+    display: block;
+   /*  margin: 8px; */
+}
+
+form {
+    display: block;
+    margin-top: 0;
+}
+
+div{
+    padding: 1%;
+}
+
+/*----------------------------Headings and Legend------------------------------------*/
+h1, legend {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+legend {
+    display: block;
+    border: none;
+}
+
+/*----------------------------Fieldset------------------------------------*/
+fieldset {
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+fieldset {
+    display: block;
+    border: .15em groove #1C1D21;
+    overflow: hidden;
+}
+
+
+/*----------------------------Label------------------------------------*/
+label, input, select {
+    display: block;
+    margin: .25em 0 .25em 0;
+}
+
+label {
+    cursor: default;
+}
+
+/*----------------------------Input------------------------------------*/
+input, select {
+    margin-bottom: 1em;
+}
+
+label, input, select {
+    display: block;
+}
+
+/*----------------------------Input First Name------------------------------------*/
+input, textarea, keygen, select, button {
+    margin: 0em;
+    font: normal normal normal 11px/normal 'Lucida Grande';
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+
+input, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
+
+/*----------------------------Input Dates/Time------------------------------------*/
+
+
+
+input, textarea, keygen, select, button {
+    margin: 0em;
+    font: normal normal normal 11px/normal 'Lucida Grande';
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+
+/*----------------------------Range------------------------------------*/
+
+bdi, output {
+    unicode-bidi: -webkit-isolate;
+}
+
+output {
+    display: inline;
+}
