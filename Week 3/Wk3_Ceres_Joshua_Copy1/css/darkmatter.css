@@ -1,6 +1,10 @@
 /*
 Dark Matter Form Style
 
+Heavily Modified
+
+Some of the input fields are not responsive
+
 */
 
 /*----------------- DARK MATTER FORM STYLE -----------------------*/
@@ -20,6 +24,7 @@ Dark Matter Form Style
     -moz-border-radius: .5em;
 }
 .dark-matter h1 {
+    font-size: 2em;
     padding: 0 0 10px 8%;  /*----- 40 / 520 = 8% -----*/
     display: block;
     border-bottom: 1px solid #444;
