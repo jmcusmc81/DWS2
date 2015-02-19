@@ -11,7 +11,7 @@ Dark Matter Form Style
     max-width: 40.1606%; /*-- 500 / 1245 = 40.1606% --*/
     background: #555;
     padding: 20px 3.0001% 20px 3.0001%;   /*-- 30 / 499.984 = 6.0001% --*/
-    font: 1em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: .7em "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #D3D3D3;
     text-shadow: .1em .1em .1em #444;
     border: none;
@@ -27,7 +27,7 @@ Dark Matter Form Style
 }
 .dark-matter h1>span {
     display: block;
-    font-size: 1.1em;
+    font-size: .5em;
 }
 .dark-matter label {
     display: block;
@@ -96,6 +96,10 @@ Dark Matter Form Style
     background-color: #EBEBEB;
 }
 
+h3{
+    width: 20%;
+    border-bottom: .1em solid;
+}
 a{
     font: 2em "Helvetica Neue", Helvetica, Arial, sans-serif;;
 }

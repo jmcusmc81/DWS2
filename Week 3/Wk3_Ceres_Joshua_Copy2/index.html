@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Form Style Copy 2</title>
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/darkmatter.css" rel="stylesheet">
+    <script src="js/respond-min.js"></script>
+
+    <!-- Commented out Bootstrap CSS because it has Legend set at 100% -->
+   <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link href="css/navbar.css" rel="stylesheet"> -->
+</head>
+<body>
+<!-- <div class="container"> <!-- Container Begins -->
+
+<form action="" method="post" class="dark-matter"> <!-- Form Begins -->
+
+         <h1>Register for Walking Dead Sweepstakes</h1>
+         <fieldset> <!-- 1st Field set -->
+             <legend>Personal details</legend>
+             <div>
+                 <label>First Name</label>
+                     <input id="given-name" name="given-name" type="text" placeholder="First name only" aria-required="true" autofocus="">
+
+             </div>
+             <div> <!-- Placeholder , Name -->
+                 <label>Last Name</label>
+                     <input id="family-name" name="family-name" type="text" placeholder="Last name only" aria-required="true" autofocus="">
+
+             </div>
+             <div> <!-- Date, DOB -->
+                 <label>Date of Birth</label>
+                     <input id="dob" name="dob" type="date" aria-required="true">
+
+             </div>
+             <div> <!-- Email -->
+                 <label>Email</label>
+                     <input id="email" name="email" type="email" placeholder="example@google.com" aria-required="true">
+
+             </div>
+             <div> <!-- URL -->
+                 <label>Facebook</label>
+                     <input id="url" name="url" type="url" placeholder="www.facebook.com">
+
+                 <label>Twitter</label>
+                 <input id="" name="url" type="url" placeholder="www.twitter.com">
+
+             </div>
+             <div> <!-- Tel, Telephone -->
+                 <label>Telephone</label>
+                     <input id="phone" name="phone" type="tel" placeholder="Eg. (555)555-5555" autocomplete="off" aria-required="true">
+
+             </div>
+             <div> <!-- Numner -->
+                 <label>Age (Minimum Age of 18 to Enter)</label>
+                     <input id="shoes" name="shoes" type="number" min="18" max="100" step="1" value="18">
+
+             </div>
+             <div> <!-- Range -->
+                 <label>User Experience (1 low - 10 high)</label>
+                     <input id="skill" name="skill" type="range" min="1" max="10" value="5">
+                     <output name="output" oninput="value=a.value">5</output>
+             </div>
+             <div>
+                 <label>Add an Image from your favorite Episode</label>
+                 <input type=file accept="image/*">
+             </div>
+             <div>
+                 <!-- Progress, All different Progress Bars -->
+                 <label>Progress</label>
+                 <progress max=8 value=4>50%</progress>
+
+                 <!-- Other Values and style for Completion Bars ----
+                 <progress max=10 value=0>0%</progress>
+                 <progress max=100 value=25>25%</progress>
+                 <progress max=100 value=75>75%</progress>
+                 <progress max=25 value=25>100%</progress>
+                 <progress>Form Completion</progress>
+                 -->
+
+             </div>
+         </fieldset> <!-- 1st Fieldset -->
+
+         <fieldset> <!-- 2nd Fieldset -->
+             <legend>Home Address</legend>
+             <div>
+                 <label>Address</label>
+                     <textarea id="address" name="address" rows="5" aria-required="true"></textarea>
+
+             </div>
+             <div>
+                 <label>Post code</label>
+                     <input id="postCode" name="postCode" type="text" aria-required="true">
+
+             </div>
+             <div> <!-- Data List -->
+                 <label>Country</label>
+                     <input id="country" name="country" list="country-names" type="text" aria-required="true">
+                     <datalist id="country-names">
+                         <option label="America" value="America"></option>
+                         <option label="Ireland" value="Ireland"></option>
+                         <option label="England" value="England"></option>
+                         <option label="Scotland" value="Scotland"></option>
+                         <option label="Canada" value="Canada"></option>
+                     </datalist>
+
+             </div>
+         </fieldset> <!-- 2nd Fieldset -->
+        <h1>Walking Dead Merchandise</h1>
+         <fieldset>
+             <legend>Products</legend>
+             <div>
+                 <label>Search our Inventory</label>
+                 <input type=search>
+                 <input type=submit value=Submit>
+             </div>
+         </fieldset>
+         <fieldset> <!-- 3rd Fieldset -->
+             <legend>Card details</legend>
+                 <legend>Card type</legend>
+                 <div class="card-type">
+                     <!-- Radio Buttons -->
+                     <label for="visa">VISA</label>
+                     <input id="visa" name="cardtype" type="radio">
+                     <label for="mastercard">Mastercard</label>
+                     <input id="mastercard" name="cardtype" type="radio">
+                     <label for="amex">AMEX</label>
+                     <input id="amex" name="cardtype" type="radio">
+
+                 </div>
+             </fieldset> <!-- 3rd Fieldset-->
+             <fieldset> <!-- 4th Fieldset -->
+             <div>
+                 <label>Name</label> <!-- Name, Card Name -->
+                     <input id="cardName" name="cardName" type="text" placeholder="Name as it appears on your card" required="">
+
+             </div>
+             <div>
+                 <label>Card number</label> <!-- Number, Card Number -->
+                     <input id="cardNo" name="cardNo" type="number" required="" title="The sixteen digit number across the middle of your card.">
+
+             </div>
+             <div>
+                 <label>Security code</label> <!-- Number, Security Number for Card -->
+                     <input id="security" name="security" type="number" required="" pattern="[0-9]{3}" title="The last three digits on the back of your card.">
+
+             </div>
+             <div> <!-- Month -->
+                 <label>Expiry Date</label> <!-- Date -->
+                     <input id="expiry" name="expiry" type="month">
+
+             </div>
+         </fieldset> <!-- 4th Fieldset -->
+
+         <fieldset> <!-- 5th Fieldset -->
+             <div>
+                 <button type="submit">Place Order</button> <!-- Submit Button -->
+             </div>
+         </fieldset> <!-- 5th Fieldset -->
+     </form> <!-- Form Ends -->
+ <!-- </div>   <!-- Container Ends -->
+
+<!-- javascript -->
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

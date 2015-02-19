@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ed0cea-75d7-4632-8b45-c8476f4ab4ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/_Copy/index.html" afterPath="$PROJECT_DIR$/Week 3/_Copy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/darkmatter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/js/jquery-latest.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/js/respond-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap.css" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/custom.css" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/css/darkmatter.css" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/darkmatter.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/index.html" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/js/bootstrap.js" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/js/jquery-latest.min.js" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/js/jquery-latest.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/js/npm.js" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/js/npm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week 3/_Copy/js/respond-min.js" afterPath="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/js/respond-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,31 +83,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 3/_Copy/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.86875" vertical-offset="1915" max-vertical-offset="2715">
-              <caret line="174" column="104" selection-start-line="174" selection-start-column="104" selection-end-line="174" selection-end-column="104" />
+            <state vertical-scroll-proportion="-18.75" vertical-offset="1335" max-vertical-offset="2745">
+              <caret line="119" column="36" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3/_Copy/css/custom.css">
+      <file leaf-file-name="darkmatter.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/darkmatter.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.76334953" vertical-offset="856" max-vertical-offset="1755">
+              <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="darkmatter.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3/_Copy/css/darkmatter.css">
+        <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/darkmatter.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1695">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
+              <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="2595">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -112,6 +150,10 @@
         <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/index.html" />
         <option value="$PROJECT_DIR$/Week 3/_Copy/css/darkmatter.css" />
         <option value="$PROJECT_DIR$/Week 3/_Copy/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/darkmatter.css" />
+        <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/darkmatter.css" />
       </list>
     </option>
   </component>
@@ -182,7 +224,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_Copy" />
+              <option name="myItemId" value="Wk3_Ceres_Joshua_Copy2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,7 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_Copy" />
+              <option name="myItemId" value="Wk3_Ceres_Joshua_Copy2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -482,14 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/css/darkmatter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="2595">
@@ -498,15 +532,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/_Copy/css/darkmatter.css">
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/css/darkmatter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1695">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/_Copy/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -514,10 +548,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/_Copy/index.html">
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86875" vertical-offset="1915" max-vertical-offset="2715">
-          <caret line="174" column="104" selection-start-line="174" selection-start-column="104" selection-end-line="174" selection-end-column="104" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/darkmatter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="2595">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.75" vertical-offset="1335" max-vertical-offset="2745">
+          <caret line="119" column="36" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy1/css/darkmatter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76334953" vertical-offset="856" max-vertical-offset="1755">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
           <folding />
         </state>
       </provider>

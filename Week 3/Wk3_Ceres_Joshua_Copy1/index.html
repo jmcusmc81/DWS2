@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/html">
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Form Style Copy</title>
+    <title>Form Style Copy 1</title>
     <link href="css/custom.css" rel="stylesheet">
     <link href="css/darkmatter.css" rel="stylesheet">
     <script src="js/respond-min.js"></script>
@@ -21,7 +21,7 @@
                  <a href="http://www.sanwebe.com/2013/10/css-html-form-styles">Dark Matter</a>
              </div>
       <!-- <fieldset> <!-- 1st Field set -->
-             <label>Personal details</label>
+             <h3>Personal details</h3>
              <div>
                  <label>First Name</label>
                      <input id="given-name" name="given-name" type="text" placeholder="First name only" aria-required="true" autofocus="">
@@ -33,9 +33,9 @@
 
              </div>
              <div> <!-- Date, DOB -->
-                 <label>Date of Birth</label>
-                     <input id="dob" name="dob" type="date" aria-required="true">
-
+                 <label>Date of Birth <br> <!-- Wrote this one out different and removed ID since it is inside a label -->
+                     <input name="dob" type="date" aria-required="true">
+                 </label>
              </div>
              <div> <!-- Email -->
                  <label>Email</label>
@@ -56,14 +56,16 @@
 
              </div>
              <div> <!-- Numner -->
-                 <label>Age (Minimum Age of 18 to Enter)</label>
+                 <label>Age (Minimum Age of 18 to Enter)<br> <!-- Wrote this one out different and removed ID since it is inside a label -->
                      <input id="shoes" name="shoes" type="number" min="18" max="100" step="1" value="18">
+                 </label>
 
              </div>
              <div> <!-- Range -->
-                 <label>User Experience (1 low - 10 high)</label>
+                 <label>User Experience (1 low - 10 high)<br> <!-- Wrote this one out different and removed ID since it is inside a label -->
                      <input id="skill" name="skill" type="range" min="1" max="10" value="5">
                      <output name="output" oninput="value=a.value">5</output>
+                 </label>
              </div>
              <div>
                  <label>Add an Image from your favorite Episode</label>
@@ -86,7 +88,7 @@
        <!-- </fieldset> <!-- 1st Fieldset END -->
 
        <!--  <fieldset> <!-- 2nd Fieldset -->
-             <label>Home Address</label>
+             <h3>Home Address</h3>
              <div>
                  <label>Address</label>
                      <textarea id="address" name="address" rows="5" aria-required="true"></textarea>
@@ -112,7 +114,7 @@
      <!--    </fieldset> <!-- 2nd Fieldset END -->
         <h1>Walking Dead Merchandise</h1>
       <!--   <fieldset> <!-- 3rd Fieldset -->
-             <label>Products</label>
+             <h3>Products</h3>
              <div>
                  <label>Search our Inventory</label>
                  <input type=search>
@@ -120,7 +122,7 @@
              </div>
       <!--   </fieldset> <!-- 3rd Fieldset END -->
     <!--     <fieldset> <!-- 4th Fieldset -->
-             <label>Card details</label>
+             <h3>Card details</h3>
                  <label>Card type</label>
                  <div class="card-type">
                      <!-- Radio Buttons -->
