@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Form Style</title>
+    <link href="css/custom.css" rel="stylesheet">
+    <script src="js/respond-min.js"></script>
+
+    <!-- Commented out Bootstrap CSS because it has Legend set at 100% -->
+   <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link href="css/navbar.css" rel="stylesheet"> -->
+</head>
+<body>
+<!-- <div class="container"> <!-- Container Begins -->
+     <form id="register"> <!-- Form Begins -->
+         <h1>Register for Walking Dead Sweepstakes</h1>
+         <fieldset> <!-- 1st Field set -->
+             <legend>Personal details</legend>
+             <div>
+                 <label>First Name</label>
+                     <input id="given-name" name="given-name" type="text" placeholder="First name only" required="" autofocus="">
+
+             </div>
+             <div>
+                 <label>Last Name</label>
+                     <input id="family-name" name="family-name" type="text" placeholder="Last name only" required="" autofocus="">
+
+             </div>
+             <div>
+                 <label>Date of Birth</label>
+                     <input id="dob" name="dob" type="date" required="">
+
+             </div>
+             <div>
+                 <label>Email</label>
+                     <input id="email" name="email" type="email" placeholder="example@domain.com" required="">
+
+             </div>
+             <div>
+                 <label>URL</label>
+                     <input id="url" name="url" type="url" placeholder="http://mysite.com">
+
+             </div>
+             <div>
+                 <label>Telephone</label>
+                     <input id="phone" name="phone" type="tel" placeholder="Eg. +447000 000000" required="">
+
+             </div>
+             <div>
+                 <label>Age (Minimum Age of 18 to Enter)</label>
+                     <input id="shoes" name="shoes" type="number" min="19" max="100" step="1" value="9">
+
+             </div>
+             <div>
+                 <label>User Experience (1 low - 10 high)</label>
+                     <input id="skill" name="skill" type="range" min="1" max="10" value="5">
+                     <output name="output" oninput="value=a.value">5</output>
+
+             </div>
+         </fieldset> <!-- 1st Fieldset -->
+
+         <fieldset> <!-- 2nd Fieldset -->
+             <legend>Billing address</legend>
+             <div>
+                 <label>Address</label>
+                     <textarea id="address" name="address" rows="5" required=""></textarea>
+
+             </div>
+             <div>
+                 <label>Post code</label>
+                     <input id="postCode" name="postCode" type="text" required="">
+
+             </div>
+             <div> <!-- Data List -->
+                 <label>Country</label>
+                     <input id="country" name="country" list="country-names" type="text" required="">
+                     <datalist id="country-names">
+                         <option label="America" value="America"></option>
+                         <option label="Ireland" value="Ireland"></option>
+                         <option label="England" value="England"></option>
+                         <option label="Scotland" value="Scotland"></option>
+                         <option label="Canada" value="Canada"></option>
+                     </datalist>
+
+             </div>
+         </fieldset> <!-- 2nd Fieldset -->
+
+         <fieldset> <!-- 3rd Fieldset -->
+             <legend>Card details</legend>
+             <fieldset>
+                 <legend>Card type</legend>
+                 <div class="card-type">
+                     <label for="visa">VISA</label>
+                     <input id="visa" name="cardtype" type="radio">
+                     <label for="mastercard">Mastercard</label>
+                     <input id="mastercard" name="cardtype" type="radio">
+                     <label for="amex">AMEX</label>
+                     <input id="amex" name="cardtype" type="radio">
+
+                 </div>
+             </fieldset> <!-- 3rd Fieldset-->
+             <div>
+                 <label>Name</label>
+                     <input id="cardName" name="cardName" type="text" placeholder="Name as it appears on your card" required="">
+
+             </div>
+             <div>
+                 <label>Card number</label>
+                     <input id="cardNo" name="cardNo" type="number" required="" title="The sixteen digit number across the middle of your card.">
+
+             </div>
+             <div>
+                 <label>Security code</label>
+                     <input id="security" name="security" type="number" required="" pattern="[0-9]{3}" title="The last three digits on the back of your card.">
+
+             </div>
+             <div>
+                 <label>Expiry Date</label>
+                     <input id="expiry" name="expiry" type="month">
+
+             </div>
+         </fieldset> <!-- 4th Fieldset -->
+
+         <fieldset> <!-- 5th Fieldset -->
+             <div>
+                 <button type="submit">Place Order</button>
+             </div>
+         </fieldset> <!-- 5th Fieldset -->
+     </form> <!-- Form Ends -->
+ <!-- </div>   <!-- Container Ends -->
+
+<!-- javascript -->
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
