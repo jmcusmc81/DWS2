@@ -9,6 +9,7 @@ DWS2
 body {
     margin: 0 auto;
     font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #D9D1C7;
 }
 
 body {
@@ -21,6 +22,7 @@ body {
 #wrapper {
     width: 1024px;
     height: 768px;
+    margin: 0 auto;
     background-color: #E1E0E0;
 }
 /*======================= Wrapper End ==============================*/
@@ -71,8 +73,9 @@ li{
 }
 
 a:link, a:visited{
-    display: inline-block;
+    display: block;
     font-weight: bold;
+    color: #F2EDE4;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -80,7 +83,7 @@ a:link, a:visited{
 }
 
 a:hover, a:active{
-
+    background-color: #181B21;
 }
 
 /*======================= Menu Top End ==============================*/
@@ -89,7 +92,7 @@ a:hover, a:active{
 #columnLeft {
     width: 220px;
     height: 438px;
-    background-color: #CBCACA;
+    background-color: #666A73;
     float: left;
 }
 /*======================= Column Left End ==============================*/
@@ -98,7 +101,7 @@ a:hover, a:active{
 #columnRight {
     width: 220px;
     height: 438px;
-    background-color: #CBCACA;
+    background-color: #666A73;
     float: right;
 }
 /*======================= Column Right End ==============================*/
@@ -107,7 +110,7 @@ a:hover, a:active{
 #content {
     width: 584px;
     height: 438px;
-    background-color: #E1E0E0;
+    background-color: #F2EDE4;
     margin-left: 220px;
 }
 /*======================= Content End ==============================*/
@@ -116,6 +119,6 @@ a:hover, a:active{
 #footer {
     width: 1024px;
     height: 75px;
-    background-color: #6E6A6A;
+    background-color: #2F3540;
 }
 /*======================= Footer End ==============================*/
