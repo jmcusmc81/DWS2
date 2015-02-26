@@ -175,6 +175,10 @@ a:hover, a:active{
 }
 
 /*==== Table =====*/
+table{
+    float: left;
+   
+}
 table, td, th {
     border: 1px solid #8C8681;
 }
@@ -189,8 +193,7 @@ th {
 }
 
 #row-1, #row-2, #row-3{
-    width: 185px;
-    height: ;
+    width: 175px;
     padding-top: .9%;
     padding-right: 1%;
     padding-left: 1%;
@@ -200,7 +203,7 @@ th {
 
 #row-1, #row-2, #row-3{
     float: left;
-    clear: right;
+
 }
 /*======================= Content End ==============================*/
 
@@ -209,6 +212,10 @@ th {
     width: 1024px;
     height: 75px;
     background-color: #2F3540;
+}
+#footer{
+    float: left;
+    clear: both;
 }
 
 /*======================= Footer End ==============================*/
