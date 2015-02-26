@@ -36,7 +36,7 @@ DWS2
 }
 /*======================= Column Left End ==============================*/
 
-/*======================= Column Rigth Begin ==============================*/
+/*======================= Column Right Begin ==============================*/
 #columnRight {
     width: 220px;
     height: 438px;
@@ -44,3 +44,12 @@ DWS2
     float: right;
 }
 /*======================= Column Right End ==============================*/
+
+/*======================= Column Right Begin ==============================*/
+#content {
+    width: 584px;
+    height: 438px;
+    background-color: #E1E0E0;
+    margin-left: 220px;
+}
+/*======================= Column Right Begin ==============================*/
