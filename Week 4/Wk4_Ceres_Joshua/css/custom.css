@@ -3,3 +3,12 @@ Joshua Ceres
 Week 4
 DWS2
 */
+
+
+
+/*======================= Wrapper Begin ==============================*/
+#wrapper {
+    width: 1024px;
+    background-color: #E1E0E0;
+}
+/*======================= Wrapper End ==============================*/
