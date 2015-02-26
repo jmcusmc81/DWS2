@@ -52,6 +52,21 @@ form{
     background-color: #ACAAAA;
 }
 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    overflow: hidden;
+}
+
+li{
+    display: inline-block;
+    width: 60px;
+}
+li{
+    float: left;
+}
+
 /*======================= Menu Top End ==============================*/
 
 /*======================= Column Left Begin ==============================*/
