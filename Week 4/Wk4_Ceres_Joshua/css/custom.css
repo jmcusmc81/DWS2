@@ -187,6 +187,21 @@ th {
 th {
     text-align: left;
 }
+
+#row-1, #row-2, #row-3{
+    width: 185px;
+    height: ;
+    padding-top: .9%;
+    padding-right: 1%;
+    padding-left: 1%;
+    background-color: #EEEFF7;
+    border: .25em solid #31353D;
+}
+
+#row-1, #row-2, #row-3{
+    float: left;
+    clear: right;
+}
 /*======================= Content End ==============================*/
 
 /*======================= Footer Begin ==============================*/
@@ -195,6 +210,7 @@ th {
     height: 75px;
     background-color: #2F3540;
 }
+
 /*======================= Footer End ==============================*/
 
 
