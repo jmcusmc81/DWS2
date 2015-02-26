@@ -29,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.583334" vertical-offset="1135" max-vertical-offset="1995">
-              <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+            <state vertical-scroll-proportion="-23.333334" vertical-offset="1135" max-vertical-offset="1995">
+              <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -41,8 +41,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96359223" vertical-offset="2431" max-vertical-offset="3570">
-              <caret line="215" column="0" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.20024271" vertical-offset="3075" max-vertical-offset="4185">
+              <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="254" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -91,8 +91,8 @@
         <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/index.html" />
         <option value="$PROJECT_DIR$/Week 2/Wk2_Ceres_Joshua-copy/index.html" />
         <option value="$PROJECT_DIR$/Week 2/Wk2_Ceres_Joshua/index.html" />
-        <option value="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html" />
         <option value="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css" />
+        <option value="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html" />
       </list>
     </option>
   </component>
@@ -847,8 +847,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.583334" vertical-offset="1135" max-vertical-offset="1995">
-          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+        <state vertical-scroll-proportion="-23.333334" vertical-offset="1135" max-vertical-offset="1995">
+          <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -857,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96359223" vertical-offset="2431" max-vertical-offset="3570">
-          <caret line="215" column="0" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.20024271" vertical-offset="3075" max-vertical-offset="4185">
+          <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="254" selection-end-column="12" />
           <folding />
         </state>
       </provider>
