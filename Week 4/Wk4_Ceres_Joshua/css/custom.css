@@ -50,15 +50,15 @@ form{
 /*======================= Menu Top Begin ==============================*/
 #menuTop {
     width: 1024px;
-    height: 35px;
     padding-top: .5em;
+    height: 45px;
     background-color: #2F3540;
     border: .25em #252A33;
 }
 
 ul{
     list-style-type: none;
-    margin-left: 0;
+    margin: 0;
     padding: 0;
 
 }
@@ -84,6 +84,15 @@ a:link, a:visited{
 
 a:hover, a:active{
     background-color: #181B21;
+}
+/*====Check Out Button====*/
+#button{
+    width: 100px;
+    margin-right: 50px;
+}
+#button{
+    float: right;
+    clear: right;
 }
 
 /*======================= Menu Top End ==============================*/
@@ -122,3 +131,6 @@ a:hover, a:active{
     background-color: #2F3540;
 }
 /*======================= Footer End ==============================*/
+
+
+
