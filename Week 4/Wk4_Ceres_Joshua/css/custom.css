@@ -175,7 +175,18 @@ a:hover, a:active{
 }
 
 /*==== Table =====*/
+table, td, th {
+    border: 1px solid #8C8681;
+}
 
+th {
+    background-color: #D9D1C7;
+    color: #F2EDE4;
+}
+
+th {
+    text-align: left;
+}
 /*======================= Content End ==============================*/
 
 /*======================= Footer Begin ==============================*/
