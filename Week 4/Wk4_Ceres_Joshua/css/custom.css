@@ -35,3 +35,12 @@ DWS2
     float: left;
 }
 /*======================= Column Left End ==============================*/
+
+/*======================= Column Rigth Begin ==============================*/
+#columnRight {
+    width: 220px;
+    height: 438px;
+    background-color: #CBCACA;
+    float: right;
+}
+/*======================= Column Right End ==============================*/
