@@ -49,22 +49,38 @@ form{
 #menuTop {
     width: 1024px;
     height: 35px;
-    background-color: #ACAAAA;
+    padding-top: .5em;
+    background-color: #2F3540;
+    border: .25em #252A33;
 }
 
 ul{
     list-style-type: none;
-    margin: 0;
-    padding-left: 0;
-    overflow: hidden;
+    margin-left: 0;
+    padding: 0;
+
 }
 
 li{
-    display: inline-block;
-    width: 60px;
+    display: block;
+    width: 120px;
 }
 li{
     float: left;
+    clear: right;
+}
+
+a:link, a:visited{
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active{
+
 }
 
 /*======================= Menu Top End ==============================*/
