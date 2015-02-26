@@ -43,6 +43,14 @@ body {
     height: 35px;
     background-color: #ACAAAA;
 }
+
+form{
+    display: inline-block;
+    padding: .5em;
+    float: right;
+    clear: right;
+    overflow: hidden;
+}
 /*======================= Menu Top End ==============================*/
 
 /*======================= Column Left Begin ==============================*/
