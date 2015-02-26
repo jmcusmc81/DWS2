@@ -15,7 +15,8 @@ body {
     display: block;
     position: relative;
 }
-/*======================= Body Begin ==============================*/
+/*======================= Body End ==============================*/
+
 /*======================= Wrapper Begin ==============================*/
 #wrapper {
     width: 1024px;
@@ -29,6 +30,10 @@ body {
     width: 1024px;
     height: 220px;
     background-color: #6E6A6A;
+}
+
+#banner{
+    background-image: url("../images/Ceres Imports.jpg");
 }
 /*======================= Banner End ==============================*/
 
