@@ -86,11 +86,11 @@ a:hover, a:active{
     background-color: #181B21;
 }
 /*====Check Out Button====*/
-#button{
+.button{
     width: 100px;
     margin-right: 50px;
 }
-#button{
+.button{
     float: right;
     clear: right;
 }
