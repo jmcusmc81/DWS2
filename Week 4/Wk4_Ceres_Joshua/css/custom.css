@@ -25,7 +25,7 @@ body {
 }
 /*======================= Wrapper End ==============================*/
 
-/*======================= Banner Begin ==============================*/
+/*======================= Banner and Form Begin ==============================*/
 #banner {
     width: 1024px;
     height: 220px;
@@ -35,14 +35,6 @@ body {
 #banner{
     background-image: url("../images/Ceres Imports.jpg");
 }
-/*======================= Banner End ==============================*/
-
-/*======================= Menu Top Begin ==============================*/
-#menuTop {
-    width: 1024px;
-    height: 35px;
-    background-color: #ACAAAA;
-}
 
 form{
     display: inline-block;
@@ -51,6 +43,15 @@ form{
     clear: right;
     overflow: hidden;
 }
+/*======================= Banner and Form End ==============================*/
+
+/*======================= Menu Top Begin ==============================*/
+#menuTop {
+    width: 1024px;
+    height: 35px;
+    background-color: #ACAAAA;
+}
+
 /*======================= Menu Top End ==============================*/
 
 /*======================= Column Left Begin ==============================*/

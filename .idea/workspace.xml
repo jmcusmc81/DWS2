@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ed0cea-75d7-4632-8b45-c8476f4ab4ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/bootstrap.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html" afterPath="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9375" vertical-offset="0" max-vertical-offset="870">
+            <state vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="870">
               <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1410">
-              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.7645631" vertical-offset="45" max-vertical-offset="1425">
+              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -95,8 +87,8 @@
         <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua_Copy2/css/darkmatter.css" />
         <option value="$PROJECT_DIR$/Week 3/Wk3_Ceres_Joshua/index.html" />
         <option value="$PROJECT_DIR$/Week 2/Wk2_Ceres_Joshua-copy/index.html" />
-        <option value="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css" />
         <option value="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html" />
+        <option value="$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css" />
       </list>
     </option>
   </component>
@@ -655,14 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1410">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 2/Wk2_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-27.083334" vertical-offset="1975" max-vertical-offset="2775">
@@ -673,8 +657,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9375" vertical-offset="0" max-vertical-offset="870">
+        <state vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="870">
           <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Wk4_Ceres_Joshua/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7645631" vertical-offset="45" max-vertical-offset="1425">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
           <folding />
         </state>
       </provider>
