@@ -39,11 +39,21 @@ body {
 }
 
 form{
-    display: inline-block;
     padding: .5em;
+    background-color: rgba(102, 106, 115, .7);
     float: right;
     clear: left;
     overflow: hidden;
+}
+
+.form-group, .checkbox{
+    float: left;
+    clear: right;
+}
+
+.sr-only, .checkbox{
+    color: #F2EDE4;
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 /*======================= Banner and Form End ==============================*/
@@ -86,13 +96,13 @@ a:link, a:visited{
 a:hover, a:active{
     background-color: #181B21;
 }
-/*====Check Out Button====*/
+/*====Buttons====*/
 
 #button{
     margin-right: 50px;
 }
 
-#button{
+#button, .btn{
     float: right;
     clear: right;
 }
