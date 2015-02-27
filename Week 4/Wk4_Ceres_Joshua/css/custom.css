@@ -20,7 +20,7 @@ body {
 
 /*======================= Wrapper Begin ==============================*/
 #wrapper {
-    width: 1024px;
+    width: 73.2%; /*1024 / 1400 = 0.73142857% */
     height: 768px;
     margin: 0 auto;
     background-color: #2F3540;
@@ -29,7 +29,7 @@ body {
 
 /*======================= Banner and Form Begin ==============================*/
 #banner {
-    width: 1024px;
+    width: 100%; /*1024 / 1400 = 0.73142857% */
     height: 220px;
     background-color: #6E6A6A;
 }
@@ -60,7 +60,7 @@ form{
 
 /*======================= Menu Top Begin ==============================*/
 #menuTop {
-    width: 1024px;
+    width: 100%;
     padding-top: .5em;
     height: 45px;
     background-color: #2F3540;
@@ -76,7 +76,7 @@ ul{
 
 li{
     display: block;
-    width: 120px;
+    width: 8em;
 }
 li{
     float: left;
@@ -88,7 +88,7 @@ a:link, a:visited{
     font-weight: bold;
     color: #F2EDE4;
     text-align: center;
-    padding: 4px;
+    padding: .4em;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -99,7 +99,7 @@ a:hover, a:active{
 /*====Buttons====*/
 
 #button{
-    margin-right: 50px;
+    margin-right: 3.5714286%; /* 50px / 1400px = 0.035714286 */
 }
 
 #button, #button1{
@@ -150,28 +150,66 @@ a:hover, a:active{
 
 /*======================= Column Left Begin ==============================*/
 #columnLeft {
-    width: 220px;
+    width: 21.484375%; /* 220px / 1024px = 0.21484375 */
     height: 438px;
     background-color: #666A73;
     float: left;
+    overflow: hidden;
+}
+#columnLeft p{
+    font-size: large;
+    text-align: center;
+    margin-left: .3em;
+    margin-right: .3em;
+    color:  #F2EDE4;
+    background-color: #8C8681;
+    border-bottom: .15em solid #181B21;
+}
+#img1, #img2, #img3{
+    float: left;
+    overflow: hidden;
+}
+#img1, #img2, #img3{
+    margin-left: 4.5454545%; /* 10px / 220px = 0.045454545 */
+    margin-bottom: 5px;
 }
 /*======================= Column Left End ==============================*/
 
 /*======================= Column Right Begin ==============================*/
 #columnRight {
-    width: 220px;
+    width: 21.484375%; /* 220px / 1024px = 0.21484375 */
     height: 438px;
     background-color: #666A73;
     float: right;
+    overflow: hidden;
+}
+
+#columnRight p{
+    font-size: large;
+    text-align: center;
+    margin-left: .3em;
+    margin-right: .3em;
+    color:  #F2EDE4;
+    background-color: #8C8681;
+    border-bottom: .15em solid #181B21;
+}
+#img4, #img5, #img6{
+    float: right;
+    overflow: hidden;
+}
+#img4, #img5, #img6 {
+    margin-right: 4.5454545%; /* 10px / 220px = 0.045454545 */
+    margin-bottom: 5px;
 }
 /*======================= Column Right End ==============================*/
 
 /*======================= Content Begin ==============================*/
 #content {
-    width: 584px;
+    width: 57.03125%; /* 584px / 1024px = .5703125 */
     height: 438px;
     background-color: #F2EDE4;
-    margin-left: 220px;
+    margin-left: .21484375%; /* 220px / 1024px = .21484375 */
+    overflow: hidden;
 }
 
 /*==== Table =====*/
@@ -200,9 +238,10 @@ th {
 }
 #row-container{
     float: left;
+    overflow: hidden;
 }
 #row-1, #row-2, #row-3{
-    width: 175px;
+    width: 29.965753%; /* 175px / 584px = .29965753 */
     height: 250px;
     padding: .9% 1% 0 1%;
     background-color: #F2EDE4;
@@ -215,7 +254,7 @@ th {
 }
 
 h3 {
-    width: 100%;
+    width: 98%;
     color: #F2EDE4;
     background-color: #8C8681;
     text-align: center;
