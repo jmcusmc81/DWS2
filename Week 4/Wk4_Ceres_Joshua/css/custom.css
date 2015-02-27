@@ -20,7 +20,7 @@ body {
 
 /*======================= Wrapper Begin ==============================*/
 #wrapper {
-    width: 73.2%; /*1024 / 1400 = 0.73142857% */
+    width: 73.038516%; /*1024 / 1402 = 0.73038516% */
     height: 768px;
     margin: 0 auto;
     background-color: #2F3540;
@@ -36,6 +36,8 @@ body {
 
 #banner{
     background-image: url("../images/Ceres Imports.jpg");
+    background-repeat: no-repeat;
+
 }
 
 form{
@@ -308,7 +310,7 @@ h3 {
 
 /*======================= Footer Begin ==============================*/
 #footer {
-    width: 1024px;
+    width: 100%;
     height: 55px;
     background-color: #2F3540;
 }
@@ -319,4 +321,44 @@ h3 {
 
 /*======================= Footer End ==============================*/
 
+/*======================= Media ==============================*/
 
+@media only screen and (max-width: 760px) {
+    #menuTop {
+        width:100%;
+    }
+
+    #content {
+        width:100%;
+    }
+
+    #banner {
+        width:100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #content p { font-size: .75em;
+    }
+
+    /*
+    .aside .section {
+        background: none; padding: 0; margin-bottom: 2em;
+ }
+    .section .latest-shot {
+        background: url(../img/bg-light.jpg);
+    }
+ .aside h1 {
+     text-align: left;
+ }
+    .hentry h1 {
+        font-size: 1.75em;
+    }
+    .hentry .meta p {
+        float: none; margin: 0 0 5px 0;
+  }
+    .hentry .meta .bullet {
+        display: none;
+    }
+    */
+}
